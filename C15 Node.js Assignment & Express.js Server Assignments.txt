@@ -1,0 +1,19 @@
+﻿Node Assignment 
+
+
+
+
+* What is Node.js?
+Node.js is a runtime environment for executing JavaScript code outside of a web browser.
+
+
+* Why is hands-on practice crucial for effective learning in Node.js development?
+Hands-on practice in Node.js is crucial for applying theoretical knowledge, troubleshooting,    and gaining practical experience.
+* What is the architecture model that Node.js is based on, and how does it handle client requests?
+Node.js is based on a single-threaded, event-driven architecture for handling concurrent client requests efficiently.
+* Describe the installation process for Node.js and the importance of NPM (Node Package Manager).
+The installation process involves downloading and running the appropriate installer for your OS from the official Node.js website; npm simplifies package management.
+* What is the role of a JSON file in a Node.js project, and where can you find it?
+A JSON file (package.json) serves as a manifest for Node.js projects, containing metadata and dependency information.
+* How do HTTP modules contribute to building server-side networking applications in Node.js?        
+HTTP modules in Node.js provide APIs for handling HTTP requests and responses, enabling efficient development of networking applications.
